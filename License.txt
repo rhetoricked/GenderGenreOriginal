@@ -1,0 +1,17 @@
+######
+GENDER GENRE Github repository license
+#####
+
+This repository and any forks of it are licensed under a Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International license (the "license").
+
+The text of the license appears at:
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+Attribution, which is required by the license, must include the following:
+"Copyright 2016 Brian Larson and licensors"
+"Project Github repository: https://github.com/rhetoricked/GenderGenreOriginal"
+All other information required under Section 3(a)(1) of the license.
+
+If you have questions about this license or attribution, contact Brian Larson
+via the Github link.
